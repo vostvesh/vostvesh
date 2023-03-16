@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Aliaskandr Shautsou
-- 👀 I’m interested in programming on Javascript
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on Javascript
 - 📫 How to reach me vostvesh@gmail.com
 
 <!---
